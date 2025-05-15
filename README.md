@@ -1,6 +1,66 @@
-![github-header-image](https://github.com/user-attachments/assets/5fd3e108-464f-433d-aeb3-eef0e6c73555)
+```
+ ____________________________________________________
+/                                                    \
+|    _________________________________________       |
+|   |                                         |      |
+|   |  > WELCOME TO APRILIANTO665's PROFILE   |      |
+|   |                                         |      |
+|   |  HP: ████████████████  MP: █████████    |      |
+|   |  LVL: 42              EXP: 9876/10000   |      |
+|   |_________________________________________|      |
+|                                                    |
+\____________________________________________________/
 
-##### My Skills
+                  APRILIANTO665
+                   ============
+                FULLSTACK DEVELOPER
+                     LEVEL 42
 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+┌───────────────────────────────────────────────────┐
+│                     INVENTORY                     │
+├───────────────────────────────────────────────────┤
+│ [JAVASCRIPT] [REACT]      [TAILWINDCSS] [NODE.JS] │
+│ [HAPI]       [EXPRESS.JS] [MONGODB]     [AWS]     │
+└───────────────────────────────────────────────────┘
 
+┌───────────────────────────────────────────────────┐
+│                   CHARACTER INFO                  │
+├───────────────────────────────────────────────────┤
+│ I'm a web developer specializing in React.js and  │
+│ TailwindCSS, with experience implementing backend │
+│ solutions using Express.js and MongoDB for        │
+│ complete full-stack development.                  │
+│                                                   │
+│ My background in managing documentation for large │
+│ construction projects has given me exceptional    │
+│ attention to detail and organization skills that  │
+│ I now apply to web development.                   │
+└───────────────────────────────────────────────────┘
+
+┌───────────────────────────────────────────────────┐
+│                  SPECIAL ABILITIES                │
+├───────────────────────────────────────────────────┤
+│ [⚔️] FRONTEND MASTERY                             │
+│     Crafting responsive UIs with React & Tailwind │
+│                                                   │
+│ [🛡️] BACKEND EXPERTISE                            │
+│     Building APIs with Express & MongoDB          │
+│                                                   │
+│ [🧪] CLOUD SOLUTIONS                              │
+│     Deploying scalable applications on AWS        │
+└───────────────────────────────────────────────────┘
+
+┌───────────────────────────────────────────────────┐
+│                    MORE INFO                      │
+├───────────────────────────────────────────────────┤
+│ [WEBSITE]: aprilianto-portfolio.vercel.app        │
+│                                                   │
+│ Press START to connect!                           │
+└───────────────────────────────────────────────────┘
+
+     ╔═════════════════════════════════════╗
+     ║  THANK YOU FOR VISITING MY PROFILE  ║
+     ╚═════════════════════════════════════╝
+
+        [CONTINUE]       [SAVE]       [EXIT]
+```
