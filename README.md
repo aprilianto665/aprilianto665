@@ -37,18 +37,6 @@
 │ I now apply to web development.                   │
 └───────────────────────────────────────────────────┘
 
-┌───────────────────────────────────────────────────┐
-│                  SPECIAL ABILITIES                │
-├───────────────────────────────────────────────────┤
-│ [⚔️] FRONTEND MASTERY                             │
-│     Crafting responsive UIs with React & Tailwind │
-│                                                   │
-│ [🛡️] BACKEND EXPERTISE                            │
-│     Building APIs with Express & MongoDB          │
-│                                                   │
-│ [🧪] CLOUD SOLUTIONS                              │
-│     Deploying scalable applications on AWS        │
-└───────────────────────────────────────────────────┘
 
 ┌───────────────────────────────────────────────────┐
 │                    MORE INFO                      │
