@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&duration=3000&pause=1000&color=FFFFFF&background=444444&center=true&vCenter=true&width=435&height=60&lines=Fullstack+Web+Developer;React+Developer&border=000000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&duration=3000&pause=1000&color=FFFFFF&background=444444&center=true&vCenter=true&width=435&height=60&lines=Frontend+Web+Developer;React+Developer&border=000000" alt="Typing SVG" />
 </div>
 
 <br>
@@ -14,7 +14,7 @@
 </h2>
 
 <p align="center">
-  I'm a web developer specializing in <b>React.js</b> and <b>TailwindCSS</b>, with experience implementing backend solutions using <b>Express.js</b> and <b>MongoDB</b> for complete full-stack development. My background in managing documentation for large construction projects has given me exceptional attention to detail and organization skills that I now apply to web development.
+  I'm a web developer specializing in <b>React.js</b>, <b>Next.js</b> , and <b>TailwindCSS</b>, with experience implementing backend solutions using <b>Express.js</b> and <b>MongoDB</b> for complete full-stack development. My background in managing documentation for large construction projects has given me exceptional attention to detail and organization skills that I now apply to web development.
 </p>
 
 <h2 align="center">
@@ -24,7 +24,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-555555?style=for-the-badge&logo=javascript&logoColor=FFFFFF" />&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-555555?style=for-the-badge&logo=typescript&logoColor=FFFFFF" />&nbsp;
   <img src="https://img.shields.io/badge/React-444444?style=for-the-badge&logo=react&logoColor=FFFFFF" />&nbsp;
+  <img src="https://img.shields.io/badge/Next.js-444444?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />&nbsp;
+  <img src="https://img.shields.io/badge/Redux-555555?style=for-the-badge&logo=redux&logoColor=FFFFFF" />&nbsp;
   <img src="https://img.shields.io/badge/Tailwind_CSS-333333?style=for-the-badge&logo=tailwind-css&logoColor=FFFFFF" />&nbsp;
   <img src="https://img.shields.io/badge/Node_js-555555?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF" />&nbsp;
   <img src="https://img.shields.io/badge/Express_js-444444?style=for-the-badge&logo=express&logoColor=FFFFFF" />&nbsp;
