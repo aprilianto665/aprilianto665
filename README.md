@@ -24,6 +24,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-444444?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" />&nbsp;
+  <img src="https://img.shields.io/badge/Go-555555?style=for-the-badge&logo=go&logoColor=FFFFFF" />&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-555555?style=for-the-badge&logo=javascript&logoColor=FFFFFF" />&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-555555?style=for-the-badge&logo=typescript&logoColor=FFFFFF" />&nbsp;
   <img src="https://img.shields.io/badge/React-444444?style=for-the-badge&logo=react&logoColor=FFFFFF" />&nbsp;
