@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=FFFFFF" />&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-444444?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" />&nbsp;
   <img src="https://img.shields.io/badge/Redis-444444?style=for-the-badge&logo=redis&logoColor=FFFFFF" />&nbsp;
+  <img src="https://img.shields.io/badge/RabbitMQ-555555?style=for-the-badge&logo=rabbitmq&logoColor=FFFFFF" />&nbsp;
   <img src="https://img.shields.io/badge/AWS-555555?style=for-the-badge&logo=amazonwebservices&logoColor=FFFFFF" />&nbsp;
   <img src="https://img.shields.io/badge/Git-444444?style=for-the-badge&logo=git&logoColor=FFFFFF" />&nbsp;
   <img src="https://img.shields.io/badge/Docker-555555?style=for-the-badge&logo=docker&logoColor=FFFFFF" />&nbsp;
