@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/Node_js-555555?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF" />&nbsp;
   <img src="https://img.shields.io/badge/NestJS-333333?style=for-the-badge&logo=nestjs&logoColor=FFFFFF" />&nbsp;
   <img src="https://img.shields.io/badge/Express_js-444444?style=for-the-badge&logo=express&logoColor=FFFFFF" />&nbsp;
+  <img src="https://img.shields.io/badge/WebSocket-444444?style=for-the-badge&logo=socketdotio&logoColor=FFFFFF" />&nbsp;
   <img src="https://img.shields.io/badge/MySQL-333333?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=FFFFFF" />&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-444444?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" />&nbsp;
