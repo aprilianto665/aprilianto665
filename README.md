@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&duration=3000&pause=1000&color=FFFFFF&background=444444&center=true&vCenter=true&width=435&height=60&lines=Backend+Developer;NodeJS+Developer&border=000000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&duration=3000&pause=1000&color=FFFFFF&background=444444&center=true&vCenter=true&width=435&height=60&lines=Software+Engineer;Language+Agnostic+Developer&border=000000" alt="Typing SVG" />
 </div>
 
 <br>
@@ -14,7 +14,7 @@
 </h2>
 
 <p align="center">
-  I'm a web developer specializing in backend. My background in managing documentation for large construction projects has given me exceptional attention to detail and organization skills that I now apply to web development.
+  I'm a Software Engineer with a language-agnostic mindset, transitioning from document control to web development. I focus on building scalable, maintainable systems by selecting technologies based on the problem context rather than preference.
 </p>
 
 <h2 align="center">
