@@ -1,9 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=180&section=header&text=APRILIANTO665&fontSize=70&fontColor=FFFFFF&animation=blink&fontAlign=50&fontAlignY=55" alt="APRILIANTO665" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&duration=3000&pause=1000&color=FFFFFF&background=444444&center=true&vCenter=true&width=435&height=60&lines=Software+Engineer;Language+Agnostic+Developer&border=000000" alt="Typing SVG" />
+<div align="center" style="width: 100%; height: 250px; background-image: url('https://grapeejapan.com/wp-content/uploads/15748_16.gif'); background-size: cover; background-position: bottom center; background-repeat: no-repeat;">
 </div>
 
 <br>
