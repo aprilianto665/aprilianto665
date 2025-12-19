@@ -1,4 +1,5 @@
-<div align="center" style="width: 100%; height: 250px; background-image: url('https://grapeejapan.com/wp-content/uploads/15748_16.gif'); background-size: cover; background-position: bottom center; background-repeat: no-repeat;">
+<div align="center" style="width: 100%; height: 300px;">
+  <img src="https://grapeejapan.com/wp-content/uploads/15748_16.gif" alt="APRILIANTO665" style="width: 100%; max-width: 100%;" />
 </div>
 
 <br>
