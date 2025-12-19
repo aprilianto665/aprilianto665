@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/JavaScript-555555?style=for-the-badge&logo=javascript&logoColor=FFFFFF" />&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-555555?style=for-the-badge&logo=typescript&logoColor=FFFFFF" />&nbsp;
   <img src="https://img.shields.io/badge/PHP-444444?style=for-the-badge&logo=php&logoColor=FFFFFF" />&nbsp;
+  <img src="https://img.shields.io/badge/Solidity-555555?style=for-the-badge&logo=solidity&logoColor=FFFFFF" />&nbsp;
   <img src="https://img.shields.io/badge/Laravel-333333?style=for-the-badge&logo=laravel&logoColor=FFFFFF" />&nbsp;
   <img src="https://img.shields.io/badge/React-444444?style=for-the-badge&logo=react&logoColor=FFFFFF" />&nbsp;
   <img src="https://img.shields.io/badge/Next.js-333333?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />&nbsp;
