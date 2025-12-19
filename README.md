@@ -5,7 +5,6 @@
 <br>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   ABOUT ME
 </h2>
 
@@ -14,8 +13,7 @@
 </p>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  MY SKILLS
+  TECH STACK
 </h2>
 
 <p align="center">
@@ -46,11 +44,10 @@
 </p>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
   GITHUB STATS
 </h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aprilianto665&show_icons=true&theme=default&title_color=FFFFFF&text_color=FFFFFF&bg_color=333333&hide_border=false&border_color=000000&icon_color=FFFFFF" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aprilianto665&layout=compact&theme=default&title_color=FFFFFF&text_color=FFFFFF&bg_color=444444&hide_border=false&border_color=000000" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aprilianto665&show_icons=true&theme=default&title_color=FFFFFF&text_color=FFFFFF&bg_color=333333&hide_border=false&border_color=000000&icon_color=FFFFFF" />
 </p>
