@@ -14,7 +14,7 @@
 </h2>
 
 <p align="center">
-  I'm a Software Engineer with a language-agnostic mindset, transitioning from document control to web development. I focus on building scalable, maintainable systems by selecting technologies based on the problem context rather than preference.
+  I'm a Software Engineer with a goal to master everything related to programming. From languages, paradigms, and algorithms to frameworks, design patterns, and best practices I'm committed to learning all aspects of programming across web, mobile, desktop, machine learning, blockchain, and system programming.
 </p>
 
 <h2 align="center">
