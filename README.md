@@ -1,5 +1,5 @@
 <div align="center" style="width: 100%; height: 300px;">
-  <img src="https://grapeejapan.com/wp-content/uploads/15748_16.gif" alt="APRILIANTO665" style="width: 100%; max-width: 100%;" />
+  <img src="./8bit_anime_banner.gif" alt="APRILIANTO665" style="width: 100%; max-width: 100%;" />
 </div>
 
 <br>
