@@ -1,5 +1,5 @@
-<div align="center" style="width: 100%; height: 300px;">
-  <img src="./8bit_anime_banner.gif" alt="APRILIANTO665" style="width: 100%; max-width: 100%;" />
+<div align="center">
+  <img src="./8bit_anime_banner.gif" alt="APRILIANTO665" />
 </div>
 
 <br>
