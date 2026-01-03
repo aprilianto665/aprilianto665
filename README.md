@@ -42,12 +42,3 @@
   <img src="https://img.shields.io/badge/Docker-555555?style=for-the-badge&logo=docker&logoColor=FFFFFF" />&nbsp;
   <img src="https://img.shields.io/badge/CI/CD-333333?style=for-the-badge&logo=githubactions&logoColor=FFFFFF" />
 </p>
-
-<h2 align="center">
-  GITHUB STATS
-</h2>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aprilianto665&layout=compact&theme=default&title_color=FFFFFF&text_color=FFFFFF&bg_color=444444&hide_border=false&border_color=000000" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aprilianto665&show_icons=true&theme=default&title_color=FFFFFF&text_color=FFFFFF&bg_color=333333&hide_border=false&border_color=000000&icon_color=FFFFFF" />
-</p>
