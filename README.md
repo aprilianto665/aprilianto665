@@ -18,6 +18,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-444444?style=for-the-badge&logo=c&logoColor=FFFFFF" />&nbsp;
+  <img src="https://img.shields.io/badge/C%23-555555?style=for-the-badge&logo=csharp&logoColor=FFFFFF" />&nbsp;
   <img src="https://img.shields.io/badge/Java-444444?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" />&nbsp;
   <img src="https://img.shields.io/badge/Go-555555?style=for-the-badge&logo=go&logoColor=FFFFFF" />&nbsp;
   <img src="https://img.shields.io/badge/Python-555555?style=for-the-badge&logo=python&logoColor=FFFFFF" />&nbsp;
