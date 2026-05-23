@@ -9,7 +9,7 @@
 </h2>
 
 <p align="center">
-  I'm a Software Engineer with a goal to master everything related to programming. From languages, paradigms, and algorithms to frameworks, design patterns, and best practices I'm committed to learning all aspects of programming across web, mobile, desktop, machine learning, blockchain, and system programming.
+  empat setengah tahun difitnah-fitnah saya diam. dijelek-jelekin saya juga diam. dicela direndah-rendahkan saya juga diam. dihujat dihujat-hujat dihina-hina saya juga diam. tetapi hari ini dijogja saya sampaikan SAYA AKAN LAWAN!!!.
 </p>
 
 <h2 align="center">
