@@ -9,7 +9,7 @@
 </h2>
 
 <p align="center">
-  empat setengah tahun difitnah-fitnah saya diam. dijelek-jelekin saya juga diam. dicela direndah-rendahkan saya juga diam. dihujat dihujat-hujat dihina-hina saya juga diam. tetapi hari ini dijogja saya sampaikan SAYA AKAN LAWAN!!!.
+  4年半、どんなに濡れ衣を着せられても、悪口を言われても、見下されても、侮辱されても俺は黙っていた。だが今日、ここジョグジャで言ってやる。俺は戦うぞ！！！
 </p>
 
 <h2 align="center">
